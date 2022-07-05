@@ -1,4 +1,4 @@
-// Skip all YouTube ads
+// Skip all YouTube sponsored ads
 
 let ogVolume=1;
 let pbRate = 1;
